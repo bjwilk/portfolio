@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -9,28 +8,36 @@ function App() {
       </div>
       <div className="App">
         <header className="App-header">
-          <p>Website for archery lessons and events</p>
-          <a
-            className="App-link"
-            href="https://www.eastbayarchery.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <ul>
-              <li>East Bay Archery</li>
-            </ul>
-          </a>
-          <p>An online market for listing vehicles for sale </p>
-          <a
-            className="App-link"
-            href="https://www.eastbayarchery.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <ul>
-              <li>Truck Finder </li>
-            </ul>
-          </a>
+          <div class="card">
+            <div class="card-body">
+              <p>Website for archery lessons and events</p>
+              <li>Built with React</li>
+              <li>Incorporated booking page</li>
+              <a
+                class="App-link"
+                href="https://www.eastbayarchery.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                East Bay Archery
+              </a>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <p>An online market for listing vehicles for sale </p>
+              <li>Built with React</li>
+              <li>Uses Express.js, Cloudinary & MongoDB</li>
+              <a
+                className="App-link"
+                href="https://www.eastbayarchery.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Truck Finder
+              </a>
+            </div>
+          </div>
         </header>
       </div>
     </>
