@@ -30,7 +30,7 @@ function App() {
               <li>Uses Express.js, Cloudinary & MongoDB</li>
               <a
                 className="App-link"
-                href="https://www.eastbayarchery.com"
+                href="https://trucklist.netlify.app"
                 target="_blank"
                 rel="noopener noreferrer"
               >
