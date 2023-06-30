@@ -34,7 +34,7 @@ function App() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Truck Finder
+                Truck List
               </a>
             </div>
           </div>
