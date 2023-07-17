@@ -12,7 +12,7 @@ function App() {
             <div class="card-body">
               <p>Website for archery lessons and events</p>
               <li>Built with React</li>
-              <li>Incorporated booking page</li>
+              <li>Deployed on Netlify</li>
               <a
                 class="App-link"
                 href="https://www.eastbayarchery.com"
@@ -27,7 +27,7 @@ function App() {
             <div class="card-body">
               <p>An online market for listing vehicles for sale </p>
               <li>Built with React</li>
-              <li>Uses Express.js, Cloudinary & MongoDB</li>
+              <li>Uses Express.js, Cloudinary, MongoDB, & Heroku</li>
               <a
                 className="App-link"
                 href="https://safe-refuge-44183-e6f219cf81d0.herokuapp.com"
